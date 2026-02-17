@@ -1,1 +1,1 @@
-# SWEN360L-Lab2
+# Green Campus Management
