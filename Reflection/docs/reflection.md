@@ -1,0 +1,3 @@
+-	I learned how to fully use GitHub with almost all of its features like pull request, branches, and how to create a repository, and Read. Me. For the project planning I learned how to prn a project using GitHub and its features. 
+-	The part in GitHub I found challenging is how to deal with branch, I found it confusing on what it was and how to use it. That’s pretty much it.
+-	I would improve the Read.Me and also the issues, and make them more enhanced, so it’s easy for the user to observe.
