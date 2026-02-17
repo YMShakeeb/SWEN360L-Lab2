@@ -13,3 +13,8 @@ To use the projects, usres must follow the steps below:
 - click on index.html code page
 - Click on (Go Live) on the bottom left of VScode page - (Must only open server on same page of index.html).
 - Sucessfuly Accessed the Project.
+
+  
+- Branch Update Test
+- Test in Progress
+- Test Complete
